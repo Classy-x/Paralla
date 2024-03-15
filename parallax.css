@@ -58,7 +58,7 @@ body{
 }
 
 #content{
-    background-image: url("../image/background.png");
+    background-image: url("others/background.png");
     background-position: center;
     height: 100vh;
     margin-top: -55px;
