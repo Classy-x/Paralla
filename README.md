@@ -4,7 +4,7 @@
   - [Demo](#demo)
   - [Features](#features)
   - [Contributing](#contributing)
-  - [Customization](#customization)
+  - [Costomization](#costomization)
  
 ## Introduction
 This is a simple Parallax Scrolling Website project created using HTML, CSS, and JavaScript. The website features a parallax scrolling effect, where background images move at a different speed than the foreground content, creating a visually appealing 3D-like effect.
