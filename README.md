@@ -11,7 +11,7 @@ This is a simple Parallax Scrolling Website project created using HTML, CSS, and
 
 ## Demo
 
-You can see a live website demo [here]().
+You can see a live website demo [here](https://classy-x.github.io/Parallax-Scrolling-Website/).
 
 ## Features
 
