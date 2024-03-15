@@ -1,0 +1,111 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    
+
+}
+*{
+    scroll-behavior: smooth;
+}
+#main{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    align-items: center;
+    color: white;
+    margin-top: 15px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+
+    
+}
+#navigation{
+    margin-left: 55%;
+
+}
+#head{
+    margin-left: 25px;
+    
+}
+.navi{
+    margin-left: 25px;
+    padding: 4px 10px 4px 10px;
+    border-radius: 50px;
+    text-decoration: none;
+    color: white;
+    
+}
+.navi:hover{
+    background-color: white;
+    color: black;
+    animation: header .5s ease ;
+}
+@keyframes header {
+    0%{
+        transform: scaleX(0%);
+        opacity: 0;
+    }
+    100%{
+        transform: scaleX(100%);
+        opacity: 1;
+    }
+
+}
+.navi.active{
+    background-color: white;
+}
+
+#content{
+    background-image: url("../image/background.png");
+    background-position: center;
+    height: 100vh;
+    margin-top: -55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    font-weight: bold;
+    text-shadow: 1px 3px 3px  white;
+    position: relative;
+}
+#gate_left{
+    left: 0px;
+    transform: translateX(-250px);
+}
+#gate_right{
+    left: 0px;
+    transform: translateX(270px);
+}
+#content>img{
+    position: absolute;
+    left: 0px;
+    top: -55px;
+    pointer-events: none;
+    width: 100%;
+    
+}
+#grass{
+    margin-top: -30px;
+}
+
+
+
+#about{
+    background-color: rgb(2,9,18);
+    height: 160vh;
+    color: white;
+    position: relative;
+    margin-top: -20px;
+    line-height: 25px;
+}
+#about>p{
+    padding: 50px;
+}
+#about>h2{
+    padding: 50px;
+    text-align: center;
+    
+}
+
