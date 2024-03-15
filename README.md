@@ -25,6 +25,6 @@ If you have ideas for improvements or want to contribute to this calculator, ple
 
 ## Costomization
 
-- Feel free to customize the calculator to meet your specific needs. You can modify the colors, and styles, and add more functionality as desired.
+Feel free to customize the calculator to meet your specific needs. You can modify the colors, and styles, and add more functionality as desired.
     
 
