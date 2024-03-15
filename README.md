@@ -3,7 +3,7 @@
   - [Introduction](#introduction)
   - [Demo](#demo)
   - [Features](#features)
-  - [Usage](#usage)
+  - [Contributing](#contributing)
   - [Customization](#customization)
  
 ## Introduction
@@ -19,5 +19,12 @@ You can see a live website demo [here]().
 - Responsive design
 - Smooth animations
 
-## Usage
+## Contributing
+
+If you have ideas for improvements or want to contribute to this calculator, please open an issue or submit a pull request. All contributions are welcome!
+
+## Costomization
+
+- Feel free to customize the calculator to meet your specific needs. You can modify the colors, and styles, and add more functionality as desired.
+    
 
